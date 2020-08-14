@@ -1,0 +1,97 @@
+2020-08-13 16:25:41,883 INFO - Checking subscription status.
+2020-08-13 16:30:23,292 INFO - Receiving fault.
+2020-08-13 16:30:23,514 INFO - Receiving fault.
+2020-08-13 16:30:23,636 INFO - Processing data.
+2020-08-13 16:30:23,768 INFO - Alarm id: string - Event: Import completed successfuly.
+2020-08-13 16:30:24,489 INFO - Processing data.
+2020-08-13 16:30:24,491 INFO - Alarm id: string - Event: Import completed successfuly.
+2020-08-13 16:30:24,665 INFO - Saving to integration log.
+2020-08-13 16:30:25,031 INFO - Saving alarms.
+2020-08-13 16:30:26,484 INFO - Saving to integration log.
+2020-08-13 16:30:26,492 INFO - Saving alarms.
+2020-08-13 16:37:53,847 INFO - Receiving fault.
+2020-08-13 16:37:53,862 INFO - Processing data.
+2020-08-13 16:37:53,882 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: File process failure. See failure row(s) below: Attributes.AdditionalData.AssetInfo.AssetField5.
+2020-08-13 16:37:53,889 INFO - Saving to integration log.
+2020-08-13 16:37:53,898 INFO - Saving alarms.
+2020-08-13 16:46:16,795 INFO - Receiving fault.
+2020-08-13 16:46:16,812 INFO - Processing data.
+2020-08-13 16:46:16,815 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 16:46:16,816 INFO - Alarm id: 5f03077085b4b90001891530 - Event: Import completed successfuly.
+2020-08-13 16:46:16,817 INFO - Alarm id: 5f03080ae684d90001571695 - Event: Import completed successfuly.
+2020-08-13 16:46:16,817 INFO - Alarm id: 5f03080fe684d90001571696 - Event: Import completed successfuly.
+2020-08-13 16:46:16,818 INFO - Alarm id: 5f0f13d27fe1b60001f4e36f - Event: File process failure. See failure row(s) below: Attributes.AddedProperties, Attributes.AdditionalData.
+2020-08-13 16:46:16,834 INFO - Saving to integration log.
+2020-08-13 16:46:16,852 INFO - Saving alarms.
+2020-08-13 18:15:07,107 INFO - Receiving fault.
+2020-08-13 18:15:07,126 INFO - Processing data.
+2020-08-13 18:15:07,143 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 18:15:07,145 INFO - Alarm id: 5f03077085b4b90001891530 - Event: Import completed successfuly.
+2020-08-13 18:15:07,147 INFO - Alarm id: 5f03080ae684d90001571695 - Event: Import completed successfuly.
+2020-08-13 18:15:07,148 INFO - Alarm id: 5f03080fe684d90001571696 - Event: Import completed successfuly.
+2020-08-13 18:15:07,151 INFO - Alarm id: 5f0f13d27fe1b60001f4e36f - Event: File process failure. See failure row(s) below: Attributes.AddedProperties, Attributes.AdditionalData.
+2020-08-13 18:15:07,170 INFO - Saving to integration log.
+2020-08-13 18:15:07,190 INFO - Saving alarms.
+2020-08-13 19:10:03,639 INFO - Receiving fault.
+2020-08-13 19:10:03,654 INFO - Processing data.
+2020-08-13 19:10:03,656 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:10:03,656 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:10:03,657 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:10:03,658 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:10:03,658 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: File process failure. See failure row(s) below: Attributes.AddedProperties, Attributes.AdditionalData.
+2020-08-13 19:10:03,673 INFO - Saving to integration log.
+2020-08-13 19:10:03,679 INFO - Saving alarms.
+2020-08-13 19:15:37,423 INFO - Receiving fault.
+2020-08-13 19:15:37,445 INFO - Processing data.
+2020-08-13 19:15:37,446 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:15:37,446 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:15:37,447 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:15:37,447 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 19:15:37,448 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: File process failure. See failure row(s) below: Attributes.AddedProperties, Attributes.AdditionalData.
+2020-08-13 19:15:37,457 INFO - Saving to integration log.
+2020-08-13 19:15:37,463 INFO - Saving alarms.
+2020-08-13 20:11:57,163 INFO - Receiving fault.
+2020-08-13 20:11:57,182 INFO - Processing data.
+2020-08-13 20:11:57,183 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 20:11:57,235 INFO - Saving to integration log.
+2020-08-13 20:11:57,240 INFO - Saving alarms.
+2020-08-13 20:17:23,864 INFO - Receiving fault.
+2020-08-13 20:17:23,875 INFO - Processing data.
+2020-08-13 20:17:23,876 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 20:17:23,900 INFO - Saving to integration log.
+2020-08-13 20:17:23,904 INFO - Saving alarms.
+2020-08-13 21:18:12,106 INFO - Receiving fault.
+2020-08-13 21:18:14,090 INFO - Processing data.
+2020-08-13 21:18:14,092 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: File process failure. See failure row(s) below: Attributes.AdditionalData.AssetInfo.AssetField5.
+2020-08-13 21:18:15,114 INFO - Saving to integration log.
+2020-08-13 21:18:15,119 INFO - Saving alarms.
+2020-08-13 21:24:10,773 INFO - Receiving fault.
+2020-08-13 21:24:10,785 INFO - Processing data.
+2020-08-13 21:24:10,786 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 21:24:10,800 INFO - Saving to integration log.
+2020-08-13 21:24:10,809 INFO - Saving alarms.
+2020-08-13 21:26:22,919 INFO - Receiving fault.
+2020-08-13 21:26:22,933 INFO - Processing data.
+2020-08-13 21:26:22,934 INFO - Alarm id: 5Z03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 21:26:22,951 INFO - Saving to integration log.
+2020-08-13 21:26:22,955 INFO - Saving alarms.
+2020-08-13 21:29:07,917 INFO - Receiving fault.
+2020-08-13 21:29:07,927 INFO - Processing data.
+2020-08-13 21:29:07,928 INFO - Alarm id: 5Z03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 21:29:07,936 INFO - Saving to integration log.
+2020-08-13 21:29:07,940 INFO - Saving alarms.
+2020-08-13 21:29:17,297 INFO - Receiving fault.
+2020-08-13 21:29:18,180 INFO - Processing data.
+2020-08-13 21:29:18,181 INFO - Alarm id: 5Z03076b85b4b9000189152f - Event: File process failure. See failure row(s) below: Attributes.AdditionalData.AssetInfo.AssetField5.
+2020-08-13 21:29:18,193 INFO - Saving to integration log.
+2020-08-13 21:29:18,197 INFO - Saving alarms.
+2020-08-13 21:57:06,160 INFO - Receiving fault.
+2020-08-13 21:57:07,719 INFO - Processing data.
+2020-08-13 21:57:07,720 INFO - Alarm id: 5Z03076b85b4b9000189152f - Event: File process failure. See failure row(s) below: Attributes.AdditionalData.AssetInfo.AssetField5.
+2020-08-13 21:57:07,742 INFO - Saving to integration log.
+2020-08-13 21:57:07,747 INFO - Saving alarms.
+2020-08-13 22:13:12,286 INFO - Receiving fault.
+2020-08-13 22:13:12,296 INFO - Processing data.
+2020-08-13 22:13:12,296 INFO - Alarm id: 5f03076b85b4b9000189152f - Event: Import completed successfuly.
+2020-08-13 22:13:12,316 INFO - Saving to integration log.
+2020-08-13 22:13:12,334 INFO - Saving alarms.
