@@ -1,0 +1,15 @@
+2020-08-21 20:09:30,053+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task information:
+2020-08-21 20:09:30,067+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  ID: 77094692-5f27-4424-ab97-6ee4fc6f8c16
+2020-08-21 20:09:30,067+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Type: repository.rebuild-index
+2020-08-21 20:09:30,067+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Name: Repair - Rebuild repository search
+2020-08-21 20:09:30,068+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Description: Rebuilding search index of *
+2020-08-21 20:09:30,105+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task log: /nexus-data/log/tasks/repository.rebuild-index-20200821200930043.log
+2020-08-21 20:09:30,135+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository maven-snapshots
+2020-08-21 20:09:30,387+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository maven-central
+2020-08-21 20:09:30,472+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository nuget.org-proxy
+2020-08-21 20:09:30,564+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository maven-releases
+2020-08-21 20:09:30,662+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository nuget-hosted
+2020-08-21 20:09:30,833+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Rebuilding index of repository lighting-guard-libraries
+2020-08-21 20:09:31,187+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - Indexed 27 / 27 lighting-guard-libraries components in 205 ms
+2020-08-21 20:09:31,190+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.SearchFacetImpl - ---- Indexed 27 / 27 lighting-guard-libraries components in 205 ms ----
+2020-08-21 20:09:31,190+0000 INFO  [quartz-7-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task complete
